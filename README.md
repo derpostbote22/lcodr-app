@@ -1,4 +1,4 @@
-# lcodr-app
+# LCODR app
 
 This Streamlit app was created to go with the Poster ["Comparison of Energy Storage and Demand Response Using the Levelised Cost Framework"](https://iaee2025paris.org/download/contribution/poster/762/762_poster_20250509_133903.pdf) which was presented at the 46th IAEE International Conference in Paris (2025) and won the best poster award there. 
 
